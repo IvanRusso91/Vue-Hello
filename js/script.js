@@ -8,6 +8,9 @@ const app = new Vue({
     myColor: 'secondaryColor',
     myStyle: 'decoration',
     myPosition: 'position',
-    myImage: 'img'
-  }
+    myImage: ['https://static01.nyt.com/images/2016/05/03/world/what-in-the-world/WITW-PROMO/WITW-PROMO-videoSixteenByNineJumbo1600.jpg']
+  },
 })
+    
+  
+
